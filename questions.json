@@ -1,0 +1,56 @@
+[
+    {
+        "question": "Proszę wskazać prawidłowe sentencje odnośnie protokołów TCP i UDP:",
+        "answers": [
+            "TCP jest bezpołączeniowy",
+            "UDP jest bezpołączeniowy",
+            "Narzut protokołu TCP jest większy w stosunku do UDP",
+            "UDP zapewnia, że pakiety docierają do węzłów w odpowiedniej kolejności",
+            "TCP posiada mechanizmy sterowania transmisją"
+        ],
+        "correct_answers": [
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "question": "Standard IEEE 802.1 q",
+        "answers": [
+            "Wprowadza dodatkowe czterobajtowe pole w środek istniejącej ramki warstwy drugiej",
+            "Daje możliwość ustawiania priorytetów dla różnych sieci VLAN"
+        ],
+        "correct_answers": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "Dlaczego wykorzystanie Port Address Translation zwiększa bezpieczeństwo komputerów w sieci",
+        "answers": [
+            "Na komputerze musi być zainstalowane oprogramowanie NAT, które zabezpiecza komputer",
+            "Komputer nie jest osiągalny z zewnątrz sieci, chyba że sam zainicjuje połączenie",
+            "Ruter, który tłumaczy adresy stanowi zaporę sieciową i zwiększa bezpieczeństwo",
+            "Komputery z prywatną adresacją nie mogą być celem ataku z zewnątrz sieci"
+        ],
+        "correct_answers": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "question": "Które z poniższych to protokoły służące do przesyłania lub odbierania poczty elektronicznej:",
+        "answers": [
+            "Pop3",
+            "Smtp",
+            "https",
+            "imap"
+        ],
+        "correct_answers": [
+            0,
+            1,
+            3
+        ]
+    }
+]
